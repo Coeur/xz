@@ -1,0 +1,11 @@
+# Xcode
+#
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# AppCode
+.idea/
+
+# macOS
+.DS_Store
